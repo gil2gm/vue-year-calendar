@@ -2,9 +2,9 @@
 
 > Proyecto actualizado de [thgh/vue-year-calendar](https://github.com/thgh/vue-year-calendar)
 
-Vista preliminar:
+Vista preliminar: ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/gil2gm/vue-year-calendar/master/img-vue-calendar/img-vue-year-calendar.png
+[logo]: https://raw.githubusercontent.com/gil2gm/vue-year-calendar/master/img-vue-calendar/img-vue-year-calendar.png "Vista preliminar"
 
 
 Cosas por hacer:
