@@ -4,7 +4,7 @@
 
 Vista preliminar:
 
-[logo]: ./img-vue-calendar/img-vue-year-calendar.png
+[logo]: https://raw.githubusercontent.com/gil2gm/vue-year-calendar/master/img-vue-calendar/img-vue-year-calendar.png
 
 
 Cosas por hacer:
