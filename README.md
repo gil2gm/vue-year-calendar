@@ -4,7 +4,7 @@
 
 Vista preliminar:
 
-(./img-vue-calendar/img-vue-year-calendar.png)
+[logo]: ./img-vue-calendar/img-vue-year-calendar.png
 
 
 Cosas por hacer:
