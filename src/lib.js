@@ -1,4 +1,5 @@
 
+/* eslint-disable */
 // 0 = sunday
 // 1 = monday
 const WEEK_START = 1
